@@ -1,0 +1,21 @@
+# .gitignore for a Python Telegram bot using pipenv and Heroku
+
+# Virtual environment
+/.venv
+
+# Log files
+*.log
+
+# Compiled or generated files
+*.pyc
+*.pyo
+__pycache__
+
+# Configuration files
+config.ini
+.env
+
+# Local development files
+.vscode/
+.idea/
+*.iml
